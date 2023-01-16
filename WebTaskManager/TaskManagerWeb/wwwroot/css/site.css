@@ -1,0 +1,52 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.demotable {
+    counter-reset: schetchik;
+}
+
+    .demotable tbody tr:nth-child(n+2) {
+        counter-increment: schetchik;
+    }
+
+
+    .demotable tbody tr:before {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .demotable tbody tr:before,
+    .demotable b:after {
+        content: counter(schetchik);
+        color: #000000;
+    }
+
+    .demotable tbody tr:nth-child(-n+1):before {
+        content: "";
+    }
+
+.button {
+    color:red;
+    padding:0px;
+    margin-top:-10px;
+}
