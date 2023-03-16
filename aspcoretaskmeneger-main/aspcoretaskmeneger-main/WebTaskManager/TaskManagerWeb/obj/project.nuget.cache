@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1u4YvL88+b+xaY1YEXyFTyIsVIKnZsdUWx2UsQpoCxdwAPgILK/9W+Hkvdc6TiU6mfHkQsVP+XG56nAmgYqKLA==",
+  "dgSpecHash": "6+1YkottKjma+cg7ejpsiKZRYaNaBlpYYkeA7k8RzpGuU/b+t6bDCF2iZHOt5NMTrmKc9wCCjbbbGlX5Aj8SxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\winne\\Desktop\\aspcoretaskmeneger-main\\aspcoretaskmeneger-main\\WebTaskManager\\TaskManagerWeb\\TaskManagerWeb.csproj",
+  "projectFilePath": "C:\\Users\\winne\\Documents\\GitHub\\WebTaskManager\\aspcoretaskmeneger-main\\aspcoretaskmeneger-main\\WebTaskManager\\TaskManagerWeb\\TaskManagerWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\winne\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\winne\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
