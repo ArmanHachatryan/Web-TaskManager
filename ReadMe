@@ -2,5 +2,5 @@
 Это продолжение работы над задачником, а именно перевод приложения в WEB
 
 Технологии
- .asp net core 5, ef core + sqlServer, DI
+ .asp net core 6, ef core + sqlServer, DI
 html, css, js
